@@ -32,3 +32,4 @@ const useEditProfile = () => {
 };
 
 export default useEditProfile;
+
